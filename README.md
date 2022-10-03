@@ -2,6 +2,7 @@
 ## Okta API Access Management for SMART Authorization
 
 [Setup a Reference SMART/FHIR Deployment Here! (AWS)](./SETUP.md)
+
 [Setup a Reference SMART/FHIR Deployment Here! (Azure)](./SETUP-Azure.md)
 
 ## Introduction
